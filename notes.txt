@@ -1,0 +1,17 @@
+SonusCloud
+
+Home Page -> Top Artists, Top Albums, Top Songs, each containing a list of three
+
+Artists Page -> List of artists, clicking on each opens their Albums page
+Albums Page -> List of albums of the artist, clicking on each opens their Songs page
+Songs Page -> List of songs of the album of the artist, not clickable
+
+About page -> Details about the site and the creators
+
+Notes:
+- Persistent Navbar: Home | Artists | About
+- Persistent Footer: About
+- Make documentation
+
+To Do:
+- Navbar bold on hover
